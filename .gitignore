@@ -1,6 +1,9 @@
 # VS Code
 .vscode
 
+# JetBrains
+cv/.idea
+
 # Cargo
 /target
 **/*.rs.bk
